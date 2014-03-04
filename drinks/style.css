@@ -25,8 +25,9 @@ body {
 	text-align: center;
 	position: fixed;
     left: 0;
-	width: 400px;
-	background: #2F2F2F;
+	width: 400px;/*
+	background: #2F2F2F;*/
+	background: #000;
 }
 #rightpane {
 	padding-left: 400px;
@@ -51,7 +52,7 @@ body {
 	font-weight: 600;
 	font-size: 2em;
 	cursor: pointer;
-	color: #000;
+	color: #999;
 }
 #leftpane h2 span.arrow {
 	font-size: 0.46875em;
@@ -75,16 +76,16 @@ body {
 	padding: 5px 0 5px 45px;
 	width: 100%;
 	cursor: pointer;
-	box-sizing: border-box;
-	background: #2F2F2F;
+	box-sizing: border-box;/*
+	background: #2F2F2F;*/
 }
-#leftpane ul li.selected { background: #444; }
+#leftpane ul li.selected { background: rgba(255,255,255,0.15); }
 
 #leftpane ul li span.price {
 	margin-left: 12px;
 	font-family: 'Roboto Condensed';
 	font-size: 0.7em;
-	color: #111;
+	color: #555;
 }
 
 /*RIGHT PANE CONTENT*/
