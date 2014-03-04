@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,300,700|Roboto+Condensed:300,400,600);
+
+body {
+    /*background: #FFF url(./dkm_tiny.png) fixed no-repeat 105% 110%;
+    background-size: 300px;*/
+    color: #FFF;
+    background: #000;
+    overflow-x: hidden;
+}
+
+#wrapper {
+    margin: 0px auto;
+    width: 1000px;
+    text-align: center;
+    overflow-x: hidden;
+}
+
+img#logo {
+
+}
+#checker {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+}
