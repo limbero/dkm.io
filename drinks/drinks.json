@@ -80,6 +80,27 @@
  			} ],
  			"instructions": "Lollyglas. Häll upp Gin och Sour Apple, pressa i citron. Gör en Dödskalleshot, bomba den försiktigt ner i glaset. Toppa med is och Sprite."
  		}, {
+ 			"name": "Discofitta",
+ 			"subtitle": "&nbsp;",
+ 			"price": "50:-",
+ 			"ingredients": [ {
+ 				"name": "Vodka",
+ 				"amount": "2 cl"
+ 			}, {
+ 				"name": "Passoã",
+ 				"amount": "2 cl"
+ 			}, {
+ 				"name": "Bols Raspberry",
+ 				"amount": "2 cl"
+ 			}, {
+ 				"name": "Pressad Lime",
+ 				"amount": "1"
+ 			}, {
+ 				"name": "Guanabanjuice",
+ 				"amount": ""
+ 			} ],
+ 			"instructions": "Highballglas. Börja med is. Häll i spriten. Pressa i lime. Fyll sedan med Guanabanajuice."
+ 		}, {
  			"name": "Going Home",
  			"subtitle": "&nbsp;",
  			"price": "35:-",
