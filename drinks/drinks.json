@@ -308,6 +308,27 @@
  			} ],
  			"instructions": "Highballglas. Börja med is. Häll i spriten. Fyll sedan med Sprite."
  		}, {
+ 			"name": "Pinje Colada",
+ 			"subtitle": "&nbsp;",
+ 			"price": "50:-",
+ 			"ingredients": [ {
+ 				"name": "Hallands fläder",
+ 				"amount": "3 cl"
+ 			}, {
+ 				"name": "Aperol",
+ 				"amount": "1 cl"
+ 			}, {
+ 				"name": "Mortlade pinjenötter",
+ 				"amount": "1 del"
+ 			}, {
+ 				"name": "Sprite",
+ 				"amount": "1 del"
+ 			}, {
+ 				"name": "???",
+ 				"amount": "2 delar"
+ 			} ],
+ 			"instructions": "Highballglas. Börja med pinjenötterna. Häll i spriten. Fyll sedan med Sprite och ???."
+ 		}, {
  			"name": "Ragnar",
  			"subtitle": "&nbsp;",
  			"price": "35:-",
